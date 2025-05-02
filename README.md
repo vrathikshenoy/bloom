@@ -1,7 +1,3 @@
-Certainly! Here's a polished `README.md` for your [bloom](https://github.com/vrathikshenoy/bloom) project, designed to clearly guide users through setup and usage:
-
----
-
 # 🌸 Bloom
 
 **Bloom** is a full-stack web application combining a Flask backend with a Next.js frontend. The project is organized into two main directories:
